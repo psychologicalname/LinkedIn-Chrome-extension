@@ -36,4 +36,4 @@ This should create a production bundle for your extension, ready to be zipped an
 
 ## Video file link
 
-https://youtu.be/ucORXSp3IqQ
+![Here's the video](https://youtu.be/ucORXSp3IqQ)
