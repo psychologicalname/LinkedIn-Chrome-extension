@@ -36,4 +36,6 @@ This should create a production bundle for your extension, ready to be zipped an
 
 ## Video file
 
+https://github.com/psychologicalname/LinkedIn-Chrome-extension/assets/40757048/a44e4918-d1c5-4fc9-a8e3-771f6e3f63c1
+
 https://youtu.be/ucORXSp3IqQ
