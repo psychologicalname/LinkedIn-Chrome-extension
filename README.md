@@ -34,6 +34,6 @@ npm run build
 
 This should create a production bundle for your extension, ready to be zipped and published to the stores.
 
-## Video file link
+## Video file
 
-![Here's the video](https://youtu.be/ucORXSp3IqQ)
+https://youtu.be/ucORXSp3IqQ
